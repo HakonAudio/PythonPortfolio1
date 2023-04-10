@@ -1,3 +1,3 @@
 class Blackjack:
-
+    pass
 
